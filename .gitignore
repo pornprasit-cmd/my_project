@@ -1,0 +1,16 @@
+# ไฟล์ตั้งค่าความลับและ Environment
+.env
+.env.*
+*.pem
+*.key
+
+# โฟลเดอร์ Dependencies และ Cache
+node_modules/
+vendor/
+.cache/
+*.log
+
+# ไฟล์ระบบของ OS และ Editor
+.DS_Store
+Thumbs.db
+.vscode/
